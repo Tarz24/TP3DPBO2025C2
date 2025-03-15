@@ -3,6 +3,9 @@
 Sistem ini merupakan implementasi untuk representasi objek komputer beserta komponennya. Pemrograman ini menggunakan konsep pemrograman berorientasi objek (OOP) dengan memanfaatkan inheritance (pewarisan) dan composition (komposisi).
 
 ## Struktur Kelas
+
+![Image](https://github.com/user-attachments/assets/1f5e4211-1b84-4ecc-9378-34aa0358fc57)
+
 **Kelas Dasar**
 
 **1. Komponen**
@@ -76,3 +79,5 @@ Program ini akan menampilkan informasi komputer dengan detail berikut:
 - Spesifikasi Storage (merk, nama, kapasitas, tipe, kecepatan, konsumsi daya)
 - Spesifikasi GPU (merk, nama, model, VRAM, konsumsi daya)
 - Total konsumsi daya sistem
+
+![Image](https://github.com/user-attachments/assets/5367aebe-2214-4653-9b6a-d64877254363)
