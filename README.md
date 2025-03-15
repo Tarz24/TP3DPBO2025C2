@@ -5,7 +5,7 @@ Sistem ini merupakan implementasi untuk representasi objek komputer beserta komp
 
 ## Struktur Kelas
 
-![Image](https://github.com/user-attachments/assets/1f5e4211-1b84-4ecc-9378-34aa0358fc57)
+![Image](https://github.com/user-attachments/assets/ccbd1d45-ab5e-4a5d-908f-75e7d007b305)
 
 **Kelas Dasar**
 
