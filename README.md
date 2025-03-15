@@ -1,3 +1,4 @@
+**Saya Muhammad Akhtar Rizki Ramadha dengan NIM 2304742 mengerjakan soal Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.**
 # Sistem Komputer
 
 Sistem ini merupakan implementasi untuk representasi objek komputer beserta komponennya. Pemrograman ini menggunakan konsep pemrograman berorientasi objek (OOP) dengan memanfaatkan inheritance (pewarisan) dan composition (komposisi).
